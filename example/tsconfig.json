@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "react-native-qr-code-scanner": ["../src/index"],
+      "react-native-qr-code-scanner/*": ["../src/*"]
+    }
+  }
+}
