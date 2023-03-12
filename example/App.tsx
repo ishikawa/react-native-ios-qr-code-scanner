@@ -1,20 +1,19 @@
-import { StyleSheet, Text, View } from 'react-native';
-
-import * as ReactNativeQrCodeScanner from 'react-native-qr-code-scanner';
+import { StyleSheet, Text } from "react-native";
+import { QrCodeScannerView } from "react-native-qr-code-scanner";
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>{ReactNativeQrCodeScanner.hello()}</Text>
-    </View>
+    <QrCodeScannerView style={styles.container}>
+      <Text>Hello, native module!</Text>
+    </QrCodeScannerView>
   );
 }
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
+    backgroundColor: "#fff",
+    alignItems: "center",
+    justifyContent: "center",
   },
 });
