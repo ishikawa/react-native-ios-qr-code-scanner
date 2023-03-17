@@ -35,7 +35,7 @@ You can configure `react-native-ios-qr-code-scanner` using its built-in config p
 
 ## Usage
 
-```jsx
+```typescript
 import { useEffect, useCallback, useState } from "react";
 import { StyleSheet, Text, Button } from "react-native";
 import {
@@ -45,8 +45,7 @@ import {
 } from "react-native-ios-qr-code-scanner";
 
 export default function App() {
-  const [hasPermission, setHasPermission] =
-    (useState < boolean) | (null > null);
+  const [hasPermission, setHasPermission] = useState<boolean | null>(null);
   const [scanned, setScanned] = useState(false);
 
   useEffect(() => {
