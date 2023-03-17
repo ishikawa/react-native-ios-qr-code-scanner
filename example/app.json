@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-qr-code-scanner-example",
-    "slug": "react-native-qr-code-scanner-example",
+    "name": "react-native-ios-qr-code-scanner-example",
+    "slug": "react-native-ios-qr-code-scanner-example",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,9 +11,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "expo.modules.qrcodescanner.example"
@@ -27,6 +25,14 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      [
+        "../app.plugin.js",
+        {
+          "cameraPermission": "Allow camera access"
+        }
+      ]
+    ]
   }
 }

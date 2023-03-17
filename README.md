@@ -1,4 +1,4 @@
-# react-native-qr-code-scanner
+# react-native-ios-qr-code-scanner
 
 > An yet another QR code reader for React Native and Expo projects.
 

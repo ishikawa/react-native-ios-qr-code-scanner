@@ -3,8 +3,8 @@
   "compilerOptions": {
     "strict": true,
     "paths": {
-      "react-native-qr-code-scanner": ["../src/index"],
-      "react-native-qr-code-scanner/*": ["../src/*"]
+      "react-native-ios-qr-code-scanner": ["../src/index"],
+      "react-native-ios-qr-code-scanner/*": ["../src/*"]
     }
   }
 }

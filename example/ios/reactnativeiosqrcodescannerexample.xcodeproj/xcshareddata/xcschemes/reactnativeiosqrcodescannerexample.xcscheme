@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "reactnativeqrcodescannerexample.app"
-               BlueprintName = "reactnativeqrcodescannerexample"
-               ReferencedContainer = "container:reactnativeqrcodescannerexample.xcodeproj">
+               BuildableName = "reactnativeiosqrcodescannerexample.app"
+               BlueprintName = "reactnativeiosqrcodescannerexample"
+               ReferencedContainer = "container:reactnativeiosqrcodescannerexample.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "reactnativeqrcodescannerexampleTests.xctest"
-               BlueprintName = "reactnativeqrcodescannerexampleTests"
-               ReferencedContainer = "container:reactnativeqrcodescannerexample.xcodeproj">
+               BuildableName = "reactnativeiosqrcodescannerexampleTests.xctest"
+               BlueprintName = "reactnativeiosqrcodescannerexampleTests"
+               ReferencedContainer = "container:reactnativeiosqrcodescannerexample.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "reactnativeqrcodescannerexample.app"
-            BlueprintName = "reactnativeqrcodescannerexample"
-            ReferencedContainer = "container:reactnativeqrcodescannerexample.xcodeproj">
+            BuildableName = "reactnativeiosqrcodescannerexample.app"
+            BlueprintName = "reactnativeiosqrcodescannerexample"
+            ReferencedContainer = "container:reactnativeiosqrcodescannerexample.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "reactnativeqrcodescannerexample.app"
-            BlueprintName = "reactnativeqrcodescannerexample"
-            ReferencedContainer = "container:reactnativeqrcodescannerexample.xcodeproj">
+            BuildableName = "reactnativeiosqrcodescannerexample.app"
+            BlueprintName = "reactnativeiosqrcodescannerexample"
+            ReferencedContainer = "container:reactnativeiosqrcodescannerexample.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

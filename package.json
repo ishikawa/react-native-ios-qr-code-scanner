@@ -1,5 +1,5 @@
 {
-  "name": "react-native-qr-code-scanner",
+  "name": "react-native-ios-qr-code-scanner",
   "version": "0.1.0",
   "description": "Yet Another QR Code Scanner for React Native / Expo projects.",
   "main": "build/index.js",
@@ -18,16 +18,16 @@
   "keywords": [
     "react-native",
     "expo",
-    "react-native-qr-code-scanner",
+    "react-native-ios-qr-code-scanner",
     "ReactNativeQrCodeScanner"
   ],
-  "repository": "https://github.com/ishikawa/react-native-qr-code-scanner",
+  "repository": "https://github.com/ishikawa/react-native-ios-qr-code-scanner",
   "bugs": {
-    "url": "https://github.com/ishikawa/react-native-qr-code-scanner/issues"
+    "url": "https://github.com/ishikawa/react-native-ios-qr-code-scanner/issues"
   },
   "author": "Takanori Ishikawa <takanori.ishikawa@gmail.com> (https://github.com/ishikawa)",
   "license": "MIT",
-  "homepage": "https://github.com/ishikawa/react-native-qr-code-scanner#readme",
+  "homepage": "https://github.com/ishikawa/react-native-ios-qr-code-scanner#readme",
   "dependencies": {},
   "devDependencies": {
     "@types/react": "^18.0.25",
