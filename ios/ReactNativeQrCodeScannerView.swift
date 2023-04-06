@@ -290,7 +290,7 @@ class ReactNativeQrCodeScannerView: ExpoView, CaptureSessionDelegate {
     var seqIndex: Int? = nil
     var seqTotal: Int? = nil
 
-    if payload.count >= 2 || ((payload[0] >> 4) & 0b1111) == 3 {
+    if payload.count >= 2 && ((payload[0] >> 4) & 0b1111) == 3 {
       seqIndex = Int(payload[0] & 0b1111)
       seqTotal = Int((payload[1] >> 4) & 0b1111) + 1
     }
