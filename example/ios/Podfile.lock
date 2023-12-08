@@ -369,7 +369,7 @@ PODS:
     - React-jsi (= 0.71.3)
     - React-logger (= 0.71.3)
     - React-perflogger (= 0.71.3)
-  - ReactNativeQrCodeScanner (0.1.0):
+  - ReactNativeQrCodeScanner (0.1.2):
     - ExpoModulesCore
   - Yoga (1.14.0)
 
@@ -557,9 +557,9 @@ SPEC CHECKSUMS:
   React-RCTVibration: 5199a180d04873366a83855de55ac33ce60fe4d5
   React-runtimeexecutor: 7bf0dafc7b727d93c8cb94eb00a9d3753c446c3e
   ReactCommon: 6f65ea5b7d84deb9e386f670dd11ce499ded7b40
-  ReactNativeQrCodeScanner: 36c0105dace9ac64708cdbafc2b5e7bc0c145683
+  ReactNativeQrCodeScanner: ed9c63469ef00b778913bcdcc516b7ce1e021ef2
   Yoga: 5ed1699acbba8863755998a4245daa200ff3817b
 
-PODFILE CHECKSUM: baf3597351c1867a4563391b61f395feb7035b2c
+PODFILE CHECKSUM: 3d985f3137d5544fadf6d5d2f94919ad93d64882
 
-COCOAPODS: 1.11.3
+COCOAPODS: 1.12.1
