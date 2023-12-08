@@ -341,7 +341,7 @@
 					"-lc++",
 				);
 				OTHER_SWIFT_FLAGS = "$(inherited) -D EXPO_CONFIGURATION_DEBUG";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.bits8.expo-module-ios-qrcodescanner.example";
+				PRODUCT_BUNDLE_IDENTIFIER = "expo.module.ios-qrcode-scanner.example";
 				PRODUCT_NAME = reactnativeiosqrcodescannerexample;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -369,7 +369,7 @@
 					"-lc++",
 				);
 				OTHER_SWIFT_FLAGS = "$(inherited) -D EXPO_CONFIGURATION_RELEASE";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.bits8.expo-module-ios-qrcodescanner.example";
+				PRODUCT_BUNDLE_IDENTIFIER = "expo.module.ios-qrcode-scanner.example";
 				PRODUCT_NAME = reactnativeiosqrcodescannerexample;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
